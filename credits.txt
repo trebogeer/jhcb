@@ -1,0 +1,1 @@
+Credits go to Bruno de Carvalho (https://github.com/brunodecarvalho) as I used some of his benchmarking code and his http-client as well.
